@@ -2,6 +2,10 @@
 # 🎈🎈🎈 Progressive Attribute Embedding for Accurate Cross-modality Person Re-ID
 This repository is an official implementation of the paper [PAENet](https://aihuazheng.github.io/publications/pdf/2022/2022-Progressive%20Attribute%20Embedding%20for%20Accurate%20Cross-modality%20Person%20Re-identification.pdf).
 
+## 🌟 Update
+
+1. Released the attribute labels for the **RegDB** and **SYSU-MM01** datasets used in our paper. [[DOWNLOAD](./PAENet_Attribute.zip)]
+
 ## ☀️ Introduction
 <img src="./miscs/paenet.png" height = "400" alt="pipeline_paenet" />
 
